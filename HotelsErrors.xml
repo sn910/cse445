@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotel>
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor">
+    <Name>Hyatt Place</Name>
+    <Address>
+      <Number>601</Number>
+      <Street>E 6th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.2">
+    <Name>Courtyard Marriott</Name>
+    <Phone>480-855-8600</Phone>
+    <Address>
+      <Number>1100</Number>
+      <Street>S Price Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85286</Zip>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.2">
+    <Name>Graduate Hotel</Name>
+    <Name>Duplicate Graduate Hotel</Name>
+    <Phone>480-967-9431</Phone>
+    <Address>
+      <Number>225</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor">
+    <Name>Canopy by Hilton</Name>
+    <Phone>480-968-6800</Phone>
+    <Address>
+      <Number>108</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
+    <Name>Omni Tempe</Name>
+    <Phone>602-794-8600</Phone>
+    <Address>
+      <Number>7</Number>
+      <Street>E University Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
+    <Name>Residence Inn</Name>
+    <Phone>480-967-2300</Phone>
+    <Address>
+      <Number>510</Number>
+      <Street>S Forest Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.3">
+    <Name>AC Hotel</Name>
+    <Phone>480-642-6140</Phone>
+    <Address>
+      <Number>100</Number>
+      <Street>E Rio Salado Pkwy</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor">
+    <Name>Holiday Inn Express</Name>
+    <Phone>480-831-9800</Phone>
+    <Address>
+      <Number>1520</Number>
+      <Street>W Baseline Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85283</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
+    <Name>Hilton Garden Inn</Name>
+    <Phone>480-968-2180</Phone>
+    <Address>
+      <Number>86</Number>
+      <Street>S Rockford Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+</Hotel>
