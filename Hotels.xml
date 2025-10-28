@@ -15,32 +15,31 @@
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Hyatt Place</Name>
-    <Phone>480-777-1234</Phone>
-    <Address>
-      <Number>660</Number>
-      <Street>S Mill Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85281</Zip>
-    </Address>
-  </Hotel>
-
-  <Hotel NearestAirport="Sky Harbor" Rating="4.0">
-    <Name>Courtyard Marriott</Name>
-    <Phone>480-345-3456</Phone>
-    <Phone>888-345-3456</Phone>
+    <Phone>480-207-1578</Phone>
     <Address>
       <Number>601</Number>
-      <Street>S Ash Ave</Street>
+      <Street>E 6th St</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
   </Hotel>
 
-  <Hotel NearestAirport="Sky Harbor" Rating="3.5">
+  <Hotel NearestAirport="Sky Harbor" Rating="4.2">
+    <Name>Courtyard Marriott</Name>
+    <Phone>480-855-8600</Phone>
+    <Address>
+      <Number>1100</Number>
+      <Street>S Price Rd</Street>
+      <City>Chandler</City>
+      <State>AZ</State>
+      <Zip>85286</Zip>
+    </Address>
+  </Hotel>
+
+  <Hotel NearestAirport="Sky Harbor" Rating="4.2">
     <Name>Graduate Hotel</Name>
-    <Phone>480-921-8898</Phone>
+    <Phone>480-967-9431</Phone>
     <Address>
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
@@ -52,7 +51,7 @@
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Canopy by Hilton</Name>
-    <Phone>480-676-4300</Phone>
+    <Phone>480-968-6800</Phone>
     <Address>
       <Number>108</Number>
       <Street>E University Dr</Street>
@@ -62,9 +61,9 @@
     </Address>
   </Hotel>
 
-  <Hotel NearestAirport="Sky Harbor" Rating="4.0">
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
     <Name>Omni Tempe</Name>
-    <Phone>480-333-7300</Phone>
+    <Phone>602-794-8600</Phone>
     <Address>
       <Number>7</Number>
       <Street>E University Dr</Street>
@@ -74,7 +73,7 @@
     </Address>
   </Hotel>
 
-  <Hotel NearestAirport="Sky Harbor" Rating="3.9">
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
     <Name>Residence Inn</Name>
     <Phone>480-967-2300</Phone>
     <Address>
@@ -100,7 +99,7 @@
 
   <Hotel NearestAirport="Sky Harbor">
     <Name>Holiday Inn Express</Name>
-    <Phone>480-967-5171</Phone>
+    <Phone>480-831-9800</Phone>
     <Address>
       <Number>1520</Number>
       <Street>W Baseline Rd</Street>
@@ -110,12 +109,12 @@
     </Address>
   </Hotel>
 
-  <Hotel NearestAirport="Sky Harbor" Rating="4.0">
+  <Hotel NearestAirport="Sky Harbor" Rating="4.5">
     <Name>Hilton Garden Inn</Name>
-    <Phone>480-966-7000</Phone>
+    <Phone>480-968-2180</Phone>
     <Address>
-      <Number>2102</Number>
-      <Street>E Rio Salado Pkwy</Street>
+      <Number>86</Number>
+      <Street>S Rockford Dr</Street>
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
